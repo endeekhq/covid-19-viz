@@ -2,7 +2,7 @@
 
 ## reopening-policy
 
-*Contents:*
+**Contents:**
 - positive test data for Arizona, California, Florida, Massachusetts, New Jersey, New York, Rhode Island, and Texas *(.csv files)*
 - draft visualization Jupyter Notebook using matplotlib, two phases of reopening *(.ipynb file)*
 - interactive visualization code using plotly *(revised-plotly.py)*
